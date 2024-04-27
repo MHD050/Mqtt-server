@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "aedes": "^0.51.0",
+    "git": "^0.1.5",
     "heroku": "^8.11.4",
     "mqtt": "^5.5.4"
   }
