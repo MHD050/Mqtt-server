@@ -1,0 +1,16 @@
+{
+  "name": "mqtt-brocker",
+  "version": "1.0.0",
+  "description": "Server for my Mqtt",
+  "main": "Brocker.js",
+  "scripts": {
+    "test": "start"
+  },
+  "author": "Mustafa",
+  "license": "ISC",
+  "dependencies": {
+    "aedes": "^0.51.0",
+    "heroku": "^8.11.4",
+    "mqtt": "^5.5.4"
+  }
+}
